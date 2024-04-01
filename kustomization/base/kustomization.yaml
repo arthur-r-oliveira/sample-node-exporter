@@ -9,6 +9,5 @@ commonLabels:
 resources:
 - namespace.yml
 - service-account.yml
-- logging-scc.yml
 - clusterrolebinding.yml
-- node-exporter.yml
+- daemonset.yml
